@@ -20,5 +20,5 @@ anchor-lang = "0.18.2"
 
 [dev-dependencies]
 solana-program-test = "1.9.8"
-tokio = "1.17.0"
+tokio = "1.18.5"
 solana-sdk = "1.10.0"
